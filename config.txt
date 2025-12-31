@@ -1,0 +1,2 @@
+rm_64bit=1
+enable_uart=1
